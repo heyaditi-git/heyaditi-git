@@ -113,8 +113,11 @@ My long-term goal is to become a **Project Manager** and eventually transition i
 # 📚 Currently Learning
 
 <p align="center">
-<img src="titles/currently-learning.png" width="100%" alt="Currently Learning"/>
+
+<img src="currentlylearning.png" width="100%" alt="Currently Learning"/>
+
 </p>
+
 
 # 🎯 Career Vision
 
