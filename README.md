@@ -1,23 +1,45 @@
 <p align="center">
-<img src="logo.png" width="220">
+
+<img src="banner.png" width="100%">
+
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1200&color=4EA1FF&center=true&vCenter=true&width=900&lines=Supply+Chain+%26+Procurement+Professional;Aspiring+Project+Manager;Aspiring+Product+Manager;Driving+Business+Through+Data+%26+Operations"/>
+
+Aditi Ranjan
+
 </h1>
+
+<h3 align="center">
+
+Supply Chain & Procurement Professional • Aspiring Product Manager
+
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=3000&pause=1200&color=4EA1FF&center=true&vCenter=true&width=900&lines=Supply+Chain+Management;Procurement+Operations;Business+Analytics;Process+Improvement;Project+Management;Future+Product+Manager" />
+
+</p>
 
 <p align="center">
 
 <a href="https://aditi-ranjan-portfolio.framer.website/">
-<img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/🌐_Portfolio-0F4C81?style=for-the-badge"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/aditi-ranjan-51780b255/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:aditiranjan80@gmail.com">
+
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=heyaditi-git&style=for-the-badge&color=0F4C81"/>
@@ -26,161 +48,255 @@
 
 ---
 
-# 👋 About Me
+# 👋 Hello!
 
-I'm **Aditi Ranjan**, a **Supply Chain Management Trainee at Labotek Technologies Pvt. Ltd.** with hands-on experience in procurement, vendor coordination, inventory support, purchase order management, business documentation and Excel reporting.
+I'm **Aditi Ranjan**, a **Supply Chain Management Trainee at Labotek Technologies Pvt. Ltd.**
 
-I enjoy improving operational efficiency through structured workflows, collaboration and data-driven decision making. My long-term goal is to build a career in **Project Management** and eventually **Product Management**, combining technology, business strategy and operations.
+I enjoy solving operational challenges using structured processes, collaboration and data.
 
----
-
-# 💼 Current Experience
-
-## 🏢 Labotek Technologies Pvt. Ltd.
-
-**Supply Chain Management Trainee**
-
-### Key Responsibilities
-
-- 📦 Procurement Operations
-- 🤝 Vendor Coordination
-- 📄 Purchase Order Tracking
-- 📊 Excel Reporting
-- 📁 Documentation
-- 📦 Inventory Support
-- 👥 Stakeholder Communication
-- 🔄 Cross-functional Collaboration
+My long-term goal is to become a **Project Manager** and eventually transition into **Product Management**, where I can combine technology, business strategy and operational excellence.
 
 ---
 
-# 🚀 Professional Interests
+# 💼 Experience
 
-- Supply Chain Management
-- Procurement
-- Project Coordination
-- Project Management
-- Product Management
-- Business Operations
-- Business Analytics
-- Dashboard Reporting
-- Process Improvement
-- Operational Excellence
-- Digital Transformation
+<table>
+
+<tr>
+
+<td width="35%">
+
+## 🏢 Company
+
+**Labotek Technologies Pvt. Ltd.**
+
+Supply Chain Management Trainee
+
+</td>
+
+<td width="65%">
+
+### Responsibilities
+
+📦 Procurement
+
+📄 Purchase Orders
+
+🤝 Vendor Coordination
+
+📊 Excel Reporting
+
+📁 Documentation
+
+🚚 Inventory Support
+
+📈 Business Operations
+
+👥 Cross Functional Teams
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 💻 Business Tech Stack
+# 🚀 Core Expertise
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supply_Chain-0F4C81?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Procurement-0F4C81?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Inventory-0F4C81?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vendor_Management-0F4C81?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business_Operations-0F4C81?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Analytics-0F4C81?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📈 Excel & Analytics
+# 💻 Business Toolkit
 
-✅ Pivot Tables
+<p align="center">
 
-✅ XLOOKUP
+<img src="https://skillicons.dev/icons?i=github,vscode"/>
 
-✅ VLOOKUP
+</p>
 
-✅ SUMIFS
+<p align="center">
 
-✅ COUNTIFS
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
 
-✅ Conditional Formatting
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets"/>
 
-✅ Dashboards
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
 
-✅ Charts
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira"/>
 
-✅ Data Validation
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap"/>
+
+</p>
 
 ---
 
 # 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Agile-009FDA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Product_Management-0F4C81?style=for-the-badge"/>
-
-</p>
+| | |
+|---|---|
+| 📈 SQL | 📦 SAP ERP |
+| 📊 Power BI | 📋 Microsoft Project |
+| 🏃 Agile | 🔄 Scrum |
+| 🎯 Product Management | ⚡ Advanced Excel |
 
 ---
 
 # 🎯 Career Vision
 
 ```text
+
 Supply Chain
-      │
-      ▼
+
+      ↓
+
 Procurement
-      │
-      ▼
+
+      ↓
+
 Project Coordination
-      │
-      ▼
+
+      ↓
+
 Project Management
-      │
-      ▼
+
+      ↓
+
 Product Management
-      │
-      ▼
+
+      ↓
+
 Business Leadership
+
 ```
 
 ---
+# 🏆 Certifications
 
-# 🏆 Certificates
-
-> Upload your certificate images inside a folder named **certificates**.
+> *Continuous learning is a key part of my professional journey.*
 
 <p align="center">
 
-<img src="certificates/google-pm.png" width="220"/>
+<a href="#">
+<img src="certificates/certificate1.png" width="250"/>
+</a>
 
-<img src="certificates/dsa.png" width="220"/>
+<a href="#">
+<img src="certificates/certificate2.png" width="250"/>
+</a>
 
-<img src="certificates/powerbi.png" width="220"/>
+<a href="#">
+<img src="certificates/certificate3.png" width="250"/>
+</a>
 
+</p>
+
+<p align="center">
+<i>Add new certificates anytime by uploading images into the <b>certificates</b> folder.</i>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Professional Snapshot
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 📦
+
+**Procurement**
+
+</td>
+
+<td align="center" width="25%">
+
+### 📈
+
+**Analytics**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝
+
+**Operations**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Leadership**
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Exploring
+
+<table>
+
+<tr>
+
+<td>
+
+### Business
+
+- Product Management
+- Business Strategy
+- Stakeholder Management
+- Project Coordination
+
+</td>
+
+<td>
+
+### Technology
+
+- SQL
+- Power BI
+- SAP ERP
+- Automation
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=heyaditi-git&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=heyaditi-git&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyaditi-git&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyaditi-git&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
@@ -190,13 +306,13 @@ Business Leadership
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=heyaditi-git&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=heyaditi-git&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📉 Activity Graph
 
 <p align="center">
 
@@ -206,43 +322,44 @@ Business Leadership
 
 ---
 
-# 🌟 Professional Values
-
-- 📊 Data-Driven Decisions
-- 📈 Continuous Improvement
-- 🤝 Collaboration
-- 🎯 Ownership
-- ⚡ Process Optimization
-- 📚 Lifelong Learning
-
----
-
 # 💬 Philosophy
 
-> **"Strong operations create strong products. Every improvement begins with understanding the process."**
+<p align="center">
+
+> **"Strong operations build stronger businesses. Every successful product begins with an efficient process."**
+
+</p>
 
 ---
 
-# 📬 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://aditi-ranjan-portfolio.framer.website/">
+
 <img src="https://img.shields.io/badge/Portfolio-0F4C81?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 <a href="https://www.linkedin.com/in/aditi-ranjan-51780b255/">
+
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 <a href="mailto:aditiranjan80@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 </p>
 
+---
+
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,100:1F6FEB&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F4C81,100:3B82F6&section=footer"/>
 
 </p>
