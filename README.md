@@ -165,7 +165,9 @@ My long-term goal is to become a **Project Manager** and eventually transition i
 # 🌱 Currently Exploring
 
 <p align="center">
-<img src="titles/currently-exploring.png" width="100%" alt="Currently Learning"/>
+
+<img src="learning.png" width="100%" alt="Currently Exploring"/>
+
 </p>
 
 # 🔥 GitHub Streak
