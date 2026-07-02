@@ -61,7 +61,9 @@ My long-term goal is to become a **Project Manager** and eventually transition i
 # 💼 Experience
 
 <p align="center">
-<img src="titles/experience.png" width="100%" alt="Experience"/>
+
+<img src="experience.png" width="100%" alt="Experience"/>
+
 </p>
 
 # 🚀 Core Expertise
