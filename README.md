@@ -159,31 +159,11 @@ Supply Chain Management Trainee
 
 # 🎯 Career Vision
 
-```text
+<p align="center">
 
-Supply Chain
+<img src="career-vision.png" width="100%" alt="Career Vision"/>
 
-      ↓
-
-Procurement
-
-      ↓
-
-Project Coordination
-
-      ↓
-
-Project Management
-
-      ↓
-
-Product Management
-
-      ↓
-
-Business Leadership
-
-```
+</p>
 
 ---
 # 🏆 Certifications
