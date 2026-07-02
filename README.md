@@ -60,47 +60,9 @@ My long-term goal is to become a **Project Manager** and eventually transition i
 
 # 💼 Experience
 
-<table>
-
-<tr>
-
-<td width="35%">
-
-## 🏢 Company
-
-**Labotek Technologies Pvt. Ltd.**
-
-Supply Chain Management Trainee
-
-</td>
-
-<td width="65%">
-
-### Responsibilities
-
-📦 Procurement
-
-📄 Purchase Orders
-
-🤝 Vendor Coordination
-
-📊 Excel Reporting
-
-📁 Documentation
-
-🚚 Inventory Support
-
-📈 Business Operations
-
-👥 Cross Functional Teams
-
-</td>
-
-</tr>
-
-</table>
-
----
+<p align="center">
+<img src="titles/experience.png" width="100%" alt="Experience"/>
+</p>
 
 # 🚀 Core Expertise
 
@@ -148,14 +110,9 @@ Supply Chain Management Trainee
 
 # 📚 Currently Learning
 
-| | |
-|---|---|
-| 📈 SQL | 📦 SAP ERP |
-| 📊 Power BI | 📋 Microsoft Project |
-| 🏃 Agile | 🔄 Scrum |
-| 🎯 Product Management | ⚡ Advanced Excel |
-
----
+<p align="center">
+<img src="titles/currently-learning.png" width="100%" alt="Currently Learning"/>
+</p>
 
 # 🎯 Career Vision
 
@@ -194,81 +151,15 @@ Supply Chain Management Trainee
 
 # 📊 Professional Snapshot
 
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-### 📦
-
-**Procurement**
-
-</td>
-
-<td align="center" width="25%">
-
-### 📈
-
-**Analytics**
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤝
-
-**Operations**
-
-</td>
-
-<td align="center" width="25%">
-
-### 🚀
-
-**Leadership**
-
-</td>
-
-</tr>
-
-</table>
-
----
+<p align="center">
+<img src="titles/professional-snapshot.png" width="100%" alt="Professional Snapshot"/>
+</p>
 
 # 🌱 Currently Exploring
 
-<table>
-
-<tr>
-
-<td>
-
-### Business
-
-- Product Management
-- Business Strategy
-- Stakeholder Management
-- Project Coordination
-
-</td>
-
-<td>
-
-### Technology
-
-- SQL
-- Power BI
-- SAP ERP
-- Automation
-
-</td>
-
-</tr>
-
-</table>
-
----
+<p align="center">
+<img src="titles/currently-exploring.png" width="100%" alt="Currently Learning"/>
+</p>
 
 # 🔥 GitHub Streak
 
