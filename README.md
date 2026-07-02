@@ -157,7 +157,9 @@ My long-term goal is to become a **Project Manager** and eventually transition i
 # 📊 Professional Snapshot
 
 <p align="center">
-<img src="titles/professional-snapshot.png" width="100%" alt="Professional Snapshot"/>
+
+<img src="personalsnapshot.png" width="100%" alt="Personal Snapshot"/>
+
 </p>
 
 # 🌱 Currently Exploring
